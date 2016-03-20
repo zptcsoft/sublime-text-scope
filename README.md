@@ -1,5 +1,6 @@
 # sublime text scope
 在创建sublime text snippet时，需要指定Snippet的作用域。
+
 1. 在需要查找作用域的地方，按<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>，sublime text的状态栏将会显示作用域的写法。
 2. 大家可以从下面列表中寻找你需要的作用域。
 
